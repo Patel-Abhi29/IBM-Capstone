@@ -56,13 +56,6 @@ This repository includes:
 - Machine learning models and evaluation results
 
 ---
-
-## 📽️ Final Presentation
-
-The final presentation summarizing the project’s findings and methodology is hosted on ResearchGate. It provides a detailed overview of the project and its conclusions:
-
-🔗 [IBM Data Science Professional Certificate Capstone Presentation](https://www.researchgate.net/publication/386075733_IBM_Data_Science_Professional_Certificate_Capstone)
-
 ---
 
 ## 📈 Insights and Findings
